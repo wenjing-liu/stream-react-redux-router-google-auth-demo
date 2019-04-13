@@ -1,4 +1,4 @@
-This project is built by using react, sematic-ui and youtube api.
+This project is built by using react, redux, react-router, google auth sematic-ui.
 
 The purpose of this project to build react component, use props system and callback function to do communication between parent to child and child to parent.
 
