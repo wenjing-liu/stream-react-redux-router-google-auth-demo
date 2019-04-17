@@ -1,5 +1,5 @@
 This project is built by using react, redux, react-router, redux-form, google auth, sematic-ui.
-Json server, axios, redux-thunk
+Json server, axios, redux-thunk, flv.js
 lodash(_.omit(), _.mapKeys(), _.pick())
 
 The purpose of this project to build react component, use props system and callback function to do communication between parent to child and child to parent.
